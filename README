@@ -1,4 +1,4 @@
-1. import metisme.sql in your mysql server(preferably wamp or xamp).
+1. Import metisme.sql in your mysql server(preferably wamp or xamp).
 2. extract the folder and open it in netbeans or put it in webapps folder of your apache tomcat server.
 3. Run it from netbeans
 	OR
