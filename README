@@ -1,0 +1,5 @@
+1. import metisme.sql in your mysql server(preferably wamp or xamp).
+2. extract the folder and open it in netbeans or put it in webapps folder of your apache tomcat server.
+3. Run it from netbeans
+	OR
+Start Tomcat and then write "localhost:8080/MetisMe"
